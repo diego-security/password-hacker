@@ -78,3 +78,18 @@ Esta herramienta tiene fines educativos y no garantiza seguridad absoluta.
 PASSWORD HACKER
 
 Version 1.0.0
+
+## 🚀 INSTALL / INSTALACIÓN
+
+```
+git clone https://github.com/diego-security/password-hacker.git
+cd password-hacker
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 main.py
+```
+
+🔗 https://github.com/diego-security/password-hacker
+
+
