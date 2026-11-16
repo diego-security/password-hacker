@@ -25,11 +25,11 @@ Una herramienta gratuita desarrollada en Python para analizar la seguridad de co
 
 Clone the repository / Cloná el repositorio:
 
-    git clone REPLACE_WITH_REPOSITORY_URL
+htpps://github.com/diego-security/password-hacker.git
 
 Enter the project directory / Entrá en la carpeta:
 
-    cd password_hacker
+    cd password-hacker
 
 Create a virtual environment / Creá un entorno virtual:
 
@@ -79,16 +79,6 @@ PASSWORD HACKER
 
 Version 1.0.0
 
-## 🚀 INSTALL / INSTALACIÓN
-
-```
-git clone https://github.com/diego-security/password-hacker.git
-cd password-hacker
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python3 main.py
-```
 
 🔗 https://github.com/diego-security/password-hacker
 
