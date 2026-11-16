@@ -25,7 +25,7 @@ Una herramienta gratuita desarrollada en Python para analizar la seguridad de co
 
 Clone the repository / Cloná el repositorio:
 
-htpps://github.com/diego-security/password-hacker.git
+    git clone https://github.com/diego-security/password-hacker.git
 
 Enter the project directory / Entrá en la carpeta:
 
